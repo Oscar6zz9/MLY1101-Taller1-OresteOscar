@@ -1,0 +1,201 @@
+id,name,status,species,type,gender,origin,location,image,episode_count,created
+1,Rick Sanchez,Alive,Human,,Male,Earth (C-137),Citadel of Ricks,https://rickandmortyapi.com/api/character/avatar/1.jpeg,51,2017-11-04T18:48:46.250Z
+2,Morty Smith,Alive,Human,,Male,unknown,Citadel of Ricks,https://rickandmortyapi.com/api/character/avatar/2.jpeg,51,2017-11-04T18:50:21.651Z
+3,Summer Smith,Alive,Human,,Female,Earth (Replacement Dimension),Earth (Replacement Dimension),https://rickandmortyapi.com/api/character/avatar/3.jpeg,42,2017-11-04T19:09:56.428Z
+4,Beth Smith,Alive,Human,,Female,Earth (Replacement Dimension),Earth (Replacement Dimension),https://rickandmortyapi.com/api/character/avatar/4.jpeg,42,2017-11-04T19:22:43.665Z
+5,Jerry Smith,Alive,Human,,Male,Earth (Replacement Dimension),Earth (Replacement Dimension),https://rickandmortyapi.com/api/character/avatar/5.jpeg,39,2017-11-04T19:26:56.301Z
+6,Abadango Cluster Princess,Alive,Alien,,Female,Abadango,Abadango,https://rickandmortyapi.com/api/character/avatar/6.jpeg,1,2017-11-04T19:50:28.250Z
+7,Abradolf Lincler,unknown,Human,Genetic experiment,Male,Earth (Replacement Dimension),Testicle Monster Dimension,https://rickandmortyapi.com/api/character/avatar/7.jpeg,2,2017-11-04T19:59:20.523Z
+8,Adjudicator Rick,Dead,Human,,Male,unknown,Citadel of Ricks,https://rickandmortyapi.com/api/character/avatar/8.jpeg,1,2017-11-04T20:03:34.737Z
+9,Agency Director,Dead,Human,,Male,Earth (Replacement Dimension),Earth (Replacement Dimension),https://rickandmortyapi.com/api/character/avatar/9.jpeg,1,2017-11-04T20:06:54.976Z
+10,Alan Rails,Dead,Human,Superhuman (Ghost trains summoner),Male,unknown,Worldender's lair,https://rickandmortyapi.com/api/character/avatar/10.jpeg,1,2017-11-04T20:19:09.017Z
+11,Albert Einstein,Dead,Human,,Male,Earth (C-137),Earth (Replacement Dimension),https://rickandmortyapi.com/api/character/avatar/11.jpeg,1,2017-11-04T20:20:20.965Z
+12,Alexander,Dead,Human,,Male,Earth (C-137),Anatomy Park,https://rickandmortyapi.com/api/character/avatar/12.jpeg,1,2017-11-04T20:32:33.144Z
+13,Alien Googah,unknown,Alien,,unknown,unknown,Earth (Replacement Dimension),https://rickandmortyapi.com/api/character/avatar/13.jpeg,1,2017-11-04T20:33:30.779Z
+14,Alien Morty,unknown,Alien,,Male,unknown,Citadel of Ricks,https://rickandmortyapi.com/api/character/avatar/14.jpeg,1,2017-11-04T20:51:31.373Z
+15,Alien Rick,unknown,Alien,,Male,unknown,Citadel of Ricks,https://rickandmortyapi.com/api/character/avatar/15.jpeg,1,2017-11-04T20:56:13.215Z
+16,Amish Cyborg,Dead,Alien,Parasite,Male,unknown,Earth (Replacement Dimension),https://rickandmortyapi.com/api/character/avatar/16.jpeg,1,2017-11-04T21:12:45.235Z
+17,Annie,Alive,Human,,Female,Earth (C-137),Anatomy Park,https://rickandmortyapi.com/api/character/avatar/17.jpeg,1,2017-11-04T22:21:24.481Z
+18,Antenna Morty,Alive,Human,Human with antennae,Male,unknown,Citadel of Ricks,https://rickandmortyapi.com/api/character/avatar/18.jpeg,2,2017-11-04T22:25:29.008Z
+19,Antenna Rick,unknown,Human,Human with antennae,Male,unknown,unknown,https://rickandmortyapi.com/api/character/avatar/19.jpeg,1,2017-11-04T22:28:13.756Z
+20,Ants in my Eyes Johnson,unknown,Human,Human with ants in his eyes,Male,unknown,Interdimensional Cable,https://rickandmortyapi.com/api/character/avatar/20.jpeg,1,2017-11-04T22:34:53.659Z
+21,Aqua Morty,unknown,Humanoid,Fish-Person,Male,unknown,Citadel of Ricks,https://rickandmortyapi.com/api/character/avatar/21.jpeg,2,2017-11-04T22:39:48.055Z
+22,Aqua Rick,unknown,Humanoid,Fish-Person,Male,unknown,Citadel of Ricks,https://rickandmortyapi.com/api/character/avatar/22.jpeg,3,2017-11-04T22:41:07.171Z
+23,Arcade Alien,unknown,Alien,,Male,unknown,Immortality Field Resort,https://rickandmortyapi.com/api/character/avatar/23.jpeg,5,2017-11-05T08:43:05.095Z
+24,Armagheadon,Alive,Alien,Cromulon,Male,Signus 5 Expanse,Signus 5 Expanse,https://rickandmortyapi.com/api/character/avatar/24.jpeg,1,2017-11-05T08:48:30.776Z
+25,Armothy,Dead,unknown,Self-aware arm,Male,Post-Apocalyptic Earth,Post-Apocalyptic Earth,https://rickandmortyapi.com/api/character/avatar/25.jpeg,1,2017-11-05T08:54:29.343Z
+26,Arthricia,Alive,Alien,Cat-Person,Female,Purge Planet,Purge Planet,https://rickandmortyapi.com/api/character/avatar/26.jpeg,1,2017-11-05T08:56:46.165Z
+27,Artist Morty,Alive,Human,,Male,unknown,Citadel of Ricks,https://rickandmortyapi.com/api/character/avatar/27.jpeg,2,2017-11-05T08:59:07.457Z
+28,Attila Starwar,Alive,Human,,Male,unknown,Interdimensional Cable,https://rickandmortyapi.com/api/character/avatar/28.jpeg,3,2017-11-05T09:02:16.595Z
+29,Baby Legs,Alive,Human,Human with baby legs,Male,unknown,Interdimensional Cable,https://rickandmortyapi.com/api/character/avatar/29.jpeg,1,2017-11-05T09:06:19.644Z
+30,Baby Poopybutthole,Alive,Poopybutthole,,Male,unknown,unknown,https://rickandmortyapi.com/api/character/avatar/30.jpeg,1,2017-11-05T09:13:16.483Z
+31,Baby Wizard,Dead,Alien,Parasite,Male,unknown,Earth (Replacement Dimension),https://rickandmortyapi.com/api/character/avatar/31.jpeg,1,2017-11-05T09:15:11.286Z
+32,Bearded Lady,Dead,Alien,Parasite,Female,unknown,Earth (Replacement Dimension),https://rickandmortyapi.com/api/character/avatar/32.jpeg,1,2017-11-05T09:18:04.184Z
+33,Beebo,Dead,Alien,,Male,Venzenulon 7,Venzenulon 7,https://rickandmortyapi.com/api/character/avatar/33.jpeg,1,2017-11-05T09:21:55.595Z
+34,Benjamin,Alive,Poopybutthole,,Male,unknown,Interdimensional Cable,https://rickandmortyapi.com/api/character/avatar/34.jpeg,3,2017-11-05T09:24:04.748Z
+35,Bepisian,Alive,Alien,Bepisian,unknown,Bepis 9,Bepis 9,https://rickandmortyapi.com/api/character/avatar/35.jpeg,4,2017-11-05T09:27:38.491Z
+36,Beta-Seven,Alive,Alien,Hivemind,unknown,unknown,unknown,https://rickandmortyapi.com/api/character/avatar/36.jpeg,1,2017-11-05T09:31:08.952Z
+37,Beth Sanchez,Alive,Human,,Female,Earth (C-500A),Earth (C-500A),https://rickandmortyapi.com/api/character/avatar/37.jpeg,1,2017-11-05T09:38:22.960Z
+38,Beth Smith,Alive,Human,,Female,Earth (C-137),Earth (C-137),https://rickandmortyapi.com/api/character/avatar/38.jpeg,8,2017-11-05T09:48:44.230Z
+39,Beth Smith,Alive,Human,,Female,Earth (Evil Rick's Target Dimension),Earth (Evil Rick's Target Dimension),https://rickandmortyapi.com/api/character/avatar/39.jpeg,1,2017-11-05T09:52:31.777Z
+40,Beth's Mytholog,Dead,Mythological Creature,Mytholog,Female,Nuptia 4,Nuptia 4,https://rickandmortyapi.com/api/character/avatar/40.jpeg,1,2017-11-05T10:02:26.701Z
+41,Big Boobed Waitress,Alive,Mythological Creature,,Female,Fantasy World,Fantasy World,https://rickandmortyapi.com/api/character/avatar/41.jpeg,1,2017-11-05T10:13:45.960Z
+42,Big Head Morty,unknown,Human,Human with giant head,Male,unknown,Citadel of Ricks,https://rickandmortyapi.com/api/character/avatar/42.jpeg,1,2017-11-05T10:15:53.349Z
+43,Big Morty,Dead,Human,,Male,unknown,Citadel of Ricks,https://rickandmortyapi.com/api/character/avatar/43.jpeg,1,2017-11-05T10:17:04.997Z
+44,Body Guard Morty,Dead,Human,,Male,unknown,Citadel of Ricks,https://rickandmortyapi.com/api/character/avatar/44.jpeg,1,2017-11-05T10:18:11.062Z
+45,Bill,Alive,Human,,Male,Earth (C-137),Earth (C-137),https://rickandmortyapi.com/api/character/avatar/45.jpeg,1,2017-11-05T10:22:27.446Z
+46,Bill,unknown,Animal,Dog,Male,Earth (Replacement Dimension),unknown,https://rickandmortyapi.com/api/character/avatar/46.jpeg,1,2017-11-05T10:24:38.089Z
+47,Birdperson,Alive,Alien,Bird-Person,Male,Bird World,Planet Squanch,https://rickandmortyapi.com/api/character/avatar/47.jpeg,7,2017-11-05T11:13:36.018Z
+48,Black Rick,Alive,Human,,Male,unknown,Citadel of Ricks,https://rickandmortyapi.com/api/character/avatar/48.jpeg,2,2017-11-05T11:15:26.044Z
+49,Blamph,Alive,Alien,,unknown,unknown,Interdimensional Cable,https://rickandmortyapi.com/api/character/avatar/49.jpeg,1,2017-11-05T11:18:26.702Z
+50,Blim Blam,Alive,Alien,Korblock,Male,unknown,Earth (Replacement Dimension),https://rickandmortyapi.com/api/character/avatar/50.jpeg,1,2017-11-05T11:21:43.756Z
+51,Blue Diplomat,Alive,Alien,,Male,unknown,Interdimensional Cable,https://rickandmortyapi.com/api/character/avatar/51.jpeg,1,2017-11-05T11:24:49.688Z
+52,Blue Footprint Guy,Dead,Human,,Male,Post-Apocalyptic Earth,Post-Apocalyptic Earth,https://rickandmortyapi.com/api/character/avatar/52.jpeg,1,2017-11-05T11:26:42.084Z
+53,Blue Shirt Morty,unknown,Human,,Male,unknown,Citadel of Ricks,https://rickandmortyapi.com/api/character/avatar/53.jpeg,1,2017-11-05T11:28:38.627Z
+54,Bobby Moynihan,Alive,Human,,Male,unknown,Interdimensional Cable,https://rickandmortyapi.com/api/character/avatar/54.jpeg,1,2017-11-05T11:31:26.348Z
+55,Boobloosian,Dead,Alien,Boobloosian,unknown,unknown,Nuptia 4,https://rickandmortyapi.com/api/character/avatar/55.jpeg,2,2017-11-05T11:32:53.847Z
+56,Bootleg Portal Chemist Rick,Dead,Human,,Male,unknown,Citadel of Ricks,https://rickandmortyapi.com/api/character/avatar/56.jpeg,1,2017-11-05T11:34:16.447Z
+57,Borpocian,Alive,Alien,Elephant-Person,Male,unknown,unknown,https://rickandmortyapi.com/api/character/avatar/57.jpeg,1,2017-11-05T11:38:29.459Z
+58,Brad,Alive,Human,,Male,Earth (Replacement Dimension),Earth (Replacement Dimension),https://rickandmortyapi.com/api/character/avatar/58.jpeg,4,2017-11-05T11:40:02.554Z
+59,Brad Anderson,Dead,Human,,Male,Earth (Replacement Dimension),Earth (Replacement Dimension),https://rickandmortyapi.com/api/character/avatar/59.jpeg,1,2017-11-05T11:41:38.964Z
+60,Calypso,Dead,Human,Superhuman,Female,unknown,unknown,https://rickandmortyapi.com/api/character/avatar/60.jpeg,1,2017-11-05T11:52:45.852Z
+61,Campaign Manager Morty,Dead,Human,,Male,unknown,Citadel of Ricks,https://rickandmortyapi.com/api/character/avatar/61.jpeg,1,2017-11-05T11:53:44.737Z
+62,Canklanker Thom,Dead,Alien,Gromflomite,Male,Gromflom Prime,unknown,https://rickandmortyapi.com/api/character/avatar/62.jpeg,1,2017-11-05T12:06:23.217Z
+63,Centaur,Alive,Mythological Creature,Centaur,Male,unknown,Mr. Goldenfold's dream,https://rickandmortyapi.com/api/character/avatar/63.jpeg,1,2017-11-05T12:22:17.848Z
+64,Chris,Dead,Alien,Organic gun,unknown,unknown,Earth (Replacement Dimension),https://rickandmortyapi.com/api/character/avatar/64.jpeg,1,2017-11-05T12:25:03.541Z
+65,Chris,Alive,Humanoid,Microverse inhabitant,Male,Rick's Battery Microverse,Rick's Battery Microverse,https://rickandmortyapi.com/api/character/avatar/65.jpeg,1,2017-11-30T11:02:41.935Z
+66,Coach Feratu (Balik Alistane),Dead,Mythological Creature,Vampire,Male,Earth (Replacement Dimension),Earth (Replacement Dimension),https://rickandmortyapi.com/api/character/avatar/66.jpeg,1,2017-11-30T11:10:10.491Z
+67,Collector,Alive,Alien,Light bulb-Alien,Male,The Menagerie,The Menagerie,https://rickandmortyapi.com/api/character/avatar/67.jpeg,1,2017-11-30T11:13:46.785Z
+68,Colossus,Dead,Human,,Male,Post-Apocalyptic Earth,Post-Apocalyptic Earth,https://rickandmortyapi.com/api/character/avatar/68.jpeg,1,2017-11-30T11:17:32.733Z
+69,Commander Rick,Dead,Human,,Male,unknown,Citadel of Ricks,https://rickandmortyapi.com/api/character/avatar/69.jpeg,1,2017-11-30T11:28:06.461Z
+70,Concerto,Dead,Humanoid,,Male,unknown,unknown,https://rickandmortyapi.com/api/character/avatar/70.jpeg,1,2017-11-30T11:31:41.926Z
+71,Conroy,Dead,Robot,,unknown,Earth (Replacement Dimension),Earth (C-137),https://rickandmortyapi.com/api/character/avatar/71.jpeg,1,2017-11-30T11:35:50.183Z
+72,Cool Rick,Alive,Human,,Male,Earth (K-83),Citadel of Ricks,https://rickandmortyapi.com/api/character/avatar/72.jpeg,1,2017-11-30T11:41:11.542Z
+73,Cop Morty,Dead,Human,,Male,unknown,Citadel of Ricks,https://rickandmortyapi.com/api/character/avatar/73.jpeg,1,2017-11-30T11:43:04.217Z
+74,Cop Rick,Alive,Human,,Male,unknown,Citadel of Ricks,https://rickandmortyapi.com/api/character/avatar/74.jpeg,1,2017-11-30T11:48:18.950Z
+75,Courier Flap,Alive,Alien,,unknown,unknown,Planet Squanch,https://rickandmortyapi.com/api/character/avatar/75.jpeg,1,2017-11-30T12:12:57.553Z
+76,Cousin Nicky,Dead,Alien,Parasite,Male,unknown,Earth (Replacement Dimension),https://rickandmortyapi.com/api/character/avatar/76.jpeg,1,2017-11-30T14:11:52.882Z
+77,Cowboy Morty,Alive,Human,,Male,unknown,Citadel of Ricks,https://rickandmortyapi.com/api/character/avatar/77.jpeg,1,2017-11-30T14:13:17.371Z
+78,Cowboy Rick,Alive,Human,,Male,unknown,Citadel of Ricks,https://rickandmortyapi.com/api/character/avatar/78.jpeg,2,2017-11-30T14:15:18.347Z
+79,Crab Spider,Alive,Alien,Animal,unknown,Hideout Planet,Hideout Planet,https://rickandmortyapi.com/api/character/avatar/79.jpeg,1,2017-11-30T14:18:16.899Z
+80,Creepy Little Girl,Alive,Human,,Female,unknown,Mr. Goldenfold's dream,https://rickandmortyapi.com/api/character/avatar/80.jpeg,1,2017-11-30T14:20:35.772Z
+81,Crocubot,Dead,Animal,Robot-Crocodile hybrid,Male,unknown,Worldender's lair,https://rickandmortyapi.com/api/character/avatar/81.jpeg,1,2017-11-30T14:23:41.053Z
+82,Cronenberg Rick,unknown,Cronenberg,,Male,Cronenberg Earth,Earth (C-137),https://rickandmortyapi.com/api/character/avatar/82.jpeg,2,2017-11-30T14:28:54.596Z
+83,Cronenberg Morty,unknown,Cronenberg,,Male,Cronenberg Earth,Earth (C-137),https://rickandmortyapi.com/api/character/avatar/83.jpeg,2,2017-11-30T20:02:29.204Z
+84,Cult Leader Morty,Alive,Human,,Male,unknown,Hideout Planet,https://rickandmortyapi.com/api/character/avatar/84.jpeg,1,2017-11-30T20:41:48.080Z
+85,Cyclops Morty,Alive,Humanoid,,Male,unknown,Citadel of Ricks,https://rickandmortyapi.com/api/character/avatar/85.jpeg,2,2017-11-30T20:49:52.133Z
+86,Cyclops Rick,Dead,Humanoid,,Male,unknown,Citadel of Ricks,https://rickandmortyapi.com/api/character/avatar/86.jpeg,3,2017-11-30T20:53:10.382Z
+87,Cynthia,Dead,Alien,Zigerion,Female,unknown,Zigerion's Base,https://rickandmortyapi.com/api/character/avatar/87.jpeg,1,2017-11-30T21:08:32.534Z
+88,Cynthia,Alive,Human,,Female,Earth (Replacement Dimension),Earth (Replacement Dimension),https://rickandmortyapi.com/api/character/avatar/88.jpeg,4,2017-11-30T21:16:35.633Z
+89,Dale,Dead,Mythological Creature,Giant,Male,Giant's Town,Giant's Town,https://rickandmortyapi.com/api/character/avatar/89.jpeg,1,2017-12-01T10:32:08.340Z
+90,Daron Jefferson,Alive,Alien,Cone-nippled alien,Male,Unity's Planet,Unity's Planet,https://rickandmortyapi.com/api/character/avatar/90.jpeg,1,2017-12-01T10:54:34.736Z
+91,David Letterman,Alive,Human,,Male,Earth (C-500A),Earth (C-500A),https://rickandmortyapi.com/api/character/avatar/91.jpeg,1,2017-12-01T11:12:25.105Z
+92,Davin,Dead,Human,,Male,Earth (C-137),Earth (C-137),https://rickandmortyapi.com/api/character/avatar/92.jpeg,2,2017-12-01T11:20:51.247Z
+93,Diablo Verde,Dead,Mythological Creature,Demon,Male,unknown,Dorian 5,https://rickandmortyapi.com/api/character/avatar/93.jpeg,1,2017-12-01T11:36:16.467Z
+94,Diane Sanchez,Dead,Human,,Female,Earth (C-137),Rick's Memories,https://rickandmortyapi.com/api/character/avatar/94.jpeg,2,2017-12-01T11:49:43.929Z
+95,Dipper and Mabel Mortys,unknown,Human,,unknown,unknown,Citadel of Ricks,https://rickandmortyapi.com/api/character/avatar/95.jpeg,1,2017-12-01T11:54:36.670Z
+96,Tuberculosis,Dead,Disease,,unknown,Anatomy Park,Anatomy Park,https://rickandmortyapi.com/api/character/avatar/96.jpeg,1,2017-12-01T11:59:04.796Z
+97,Gonorrhea,Dead,Disease,,unknown,Anatomy Park,Anatomy Park,https://rickandmortyapi.com/api/character/avatar/97.jpeg,1,2017-12-01T12:00:27.028Z
+98,Hepatitis A,Dead,Disease,,unknown,Anatomy Park,Anatomy Park,https://rickandmortyapi.com/api/character/avatar/98.jpeg,1,2017-12-01T12:01:43.742Z
+99,Hepatitis C,Dead,Disease,,unknown,Anatomy Park,Anatomy Park,https://rickandmortyapi.com/api/character/avatar/99.jpeg,1,2017-12-01T12:02:00.935Z
+100,Bubonic Plague,Dead,Disease,,unknown,Anatomy Park,Anatomy Park,https://rickandmortyapi.com/api/character/avatar/100.jpeg,1,2017-12-01T12:02:21.611Z
+101,E. Coli,Dead,Disease,,unknown,Anatomy Park,Anatomy Park,https://rickandmortyapi.com/api/character/avatar/101.jpeg,1,2017-12-01T12:03:31.433Z
+102,Donna Gueterman,Dead,Robot,,Female,unknown,Planet Squanch,https://rickandmortyapi.com/api/character/avatar/102.jpeg,1,2017-12-01T12:21:21.357Z
+103,Doofus Rick,unknown,Human,,Male,Earth (J19ζ7),Earth (Replacement Dimension),https://rickandmortyapi.com/api/character/avatar/103.jpeg,2,2017-12-01T12:29:27.984Z
+104,Doom-Nomitron,Dead,Alien,Shapeshifter,unknown,unknown,Dorian 5,https://rickandmortyapi.com/api/character/avatar/104.jpeg,1,2017-12-26T12:34:36.758Z
+105,Dr. Glip-Glop,Dead,Alien,,Male,unknown,St. Gloopy Noops Hospital,https://rickandmortyapi.com/api/character/avatar/105.jpeg,1,2017-12-26T12:39:22.855Z
+106,Dr. Schmidt,unknown,Human,Game,Male,Roy: A Life Well Lived,Roy: A Life Well Lived,https://rickandmortyapi.com/api/character/avatar/106.jpeg,1,2017-12-26T12:46:48.805Z
+107,Dr. Wong,Alive,Human,,Female,Earth (Replacement Dimension),Earth (Replacement Dimension),https://rickandmortyapi.com/api/character/avatar/107.jpeg,2,2017-12-26T12:55:58.449Z
+108,Dr. Xenon Bloom,Dead,Humanoid,Amoeba-Person,Male,unknown,Anatomy Park,https://rickandmortyapi.com/api/character/avatar/108.jpeg,1,2017-12-26T13:14:12.157Z
+109,Duck With Muscles,Dead,Alien,Parasite,Male,unknown,Earth (Replacement Dimension),https://rickandmortyapi.com/api/character/avatar/109.jpeg,1,2017-12-26T13:17:40.686Z
+110,Eli,Alive,Human,,Male,Post-Apocalyptic Earth,Post-Apocalyptic Earth,https://rickandmortyapi.com/api/character/avatar/110.jpeg,1,2017-12-26T13:37:27.635Z
+111,Eli's Girlfriend,Alive,Human,,Female,Post-Apocalyptic Earth,Post-Apocalyptic Earth,https://rickandmortyapi.com/api/character/avatar/111.jpeg,1,2017-12-26T13:38:47.115Z
+112,Eric McMan,Alive,Human,,Male,Earth (C-137),Earth (C-137),https://rickandmortyapi.com/api/character/avatar/112.jpeg,1,2017-12-26T13:40:06.005Z
+113,Eric Stoltz Mask Morty,unknown,Human,,Male,Eric Stoltz Mask Earth,Earth (Replacement Dimension),https://rickandmortyapi.com/api/character/avatar/113.jpeg,1,2017-12-26T13:43:29.296Z
+114,Ethan,unknown,Human,Cronenberg,Male,Earth (C-137),Earth (C-137),https://rickandmortyapi.com/api/character/avatar/114.jpeg,1,2017-12-26T16:01:13.904Z
+115,Ethan,Alive,Human,,Male,Earth (Replacement Dimension),Earth (Replacement Dimension),https://rickandmortyapi.com/api/character/avatar/115.jpeg,2,2017-12-26T16:01:50.939Z
+116,Evil Beth Clone,Dead,Human,Clone,Female,unknown,Earth (C-137),https://rickandmortyapi.com/api/character/avatar/116.jpeg,1,2017-12-26T16:10:47.781Z
+117,Evil Jerry Clone,Dead,Human,Clone,Male,unknown,Earth (C-137),https://rickandmortyapi.com/api/character/avatar/117.jpeg,1,2017-12-26T16:11:15.395Z
+118,Evil Morty,Alive,Human,,Male,unknown,Citadel of Ricks,https://rickandmortyapi.com/api/character/avatar/118.jpeg,3,2017-12-26T16:13:41.103Z
+119,Evil Rick,Dead,Humanoid,Robot,Male,unknown,Citadel of Ricks,https://rickandmortyapi.com/api/character/avatar/119.jpeg,1,2017-12-26T16:17:16.472Z
+120,Evil Summer Clone,Dead,Human,Clone,Female,unknown,Earth (C-137),https://rickandmortyapi.com/api/character/avatar/120.jpeg,1,2017-12-26T16:24:02.059Z
+121,Eyehole Man,Alive,Alien,,Male,unknown,Interdimensional Cable,https://rickandmortyapi.com/api/character/avatar/121.jpeg,1,2017-12-26T16:41:58.391Z
+122,Fart,Dead,Alien,Interdimensional gaseous being,Male,unknown,unknown,https://rickandmortyapi.com/api/character/avatar/122.jpeg,1,2017-12-26T17:19:40.474Z
+123,Fat Morty,Alive,Human,,Male,unknown,Citadel of Ricks,https://rickandmortyapi.com/api/character/avatar/123.jpeg,1,2017-12-26T17:22:40.315Z
+124,Father Bob,Alive,Human,,Male,Earth (Replacement Dimension),Earth (Replacement Dimension),https://rickandmortyapi.com/api/character/avatar/124.jpeg,2,2017-12-26T17:31:29.113Z
+125,Flansian,Alive,Alien,Flansian,unknown,unknown,Planet Squanch,https://rickandmortyapi.com/api/character/avatar/125.jpeg,3,2017-12-26T17:43:58.410Z
+126,Fleeb,unknown,Alien,,unknown,unknown,Interdimensional Cable,https://rickandmortyapi.com/api/character/avatar/126.jpeg,1,2017-12-26T18:45:42.593Z
+127,Frank Palicky,Dead,Human,,Male,Earth (C-137),Earth (C-137),https://rickandmortyapi.com/api/character/avatar/127.jpeg,1,2017-12-26T19:22:48.474Z
+128,Frankenstein's Monster,Dead,Alien,Parasite,Male,unknown,Earth (Replacement Dimension),https://rickandmortyapi.com/api/character/avatar/128.jpeg,1,2017-12-26T19:24:56.679Z
+129,Fulgora,Alive,Human,,Female,unknown,Interdimensional Cable,https://rickandmortyapi.com/api/character/avatar/129.jpeg,3,2017-12-26T19:30:02.242Z
+130,Galactic Federation President,Dead,Alien,Gromflomite,Male,unknown,unknown,https://rickandmortyapi.com/api/character/avatar/130.jpeg,1,2017-12-26T19:49:41.160Z
+131,Gar Gloonch,Dead,Alien,Zombodian,Male,unknown,Nuptia 4,https://rickandmortyapi.com/api/character/avatar/131.jpeg,3,2017-12-26T19:54:43.476Z
+132,Gar's Mytholog,Dead,Mythological Creature,Mytholog,Male,Nuptia 4,Nuptia 4,https://rickandmortyapi.com/api/character/avatar/132.jpeg,1,2017-12-26T20:02:38.033Z
+133,Garblovian,Alive,Alien,Garblovian,Male,Glaagablaaga,unknown,https://rickandmortyapi.com/api/character/avatar/133.jpeg,3,2017-12-26T20:30:45.943Z
+134,Garmanarnar,Alive,Alien,,Male,unknown,Interdimensional Cable,https://rickandmortyapi.com/api/character/avatar/134.jpeg,1,2017-12-26T20:36:54.577Z
+135,Garment District Rick,Dead,Human,,Male,unknown,Citadel of Ricks,https://rickandmortyapi.com/api/character/avatar/135.jpeg,1,2017-12-26T20:51:43.614Z
+136,Gazorpazorpfield,Alive,Alien,Gazorpian,Male,Gazorpazorp,Interdimensional Cable,https://rickandmortyapi.com/api/character/avatar/136.jpeg,2,2017-12-27T17:59:59.058Z
+137,Gene,Alive,Human,,Male,Earth (Replacement Dimension),Earth (Replacement Dimension),https://rickandmortyapi.com/api/character/avatar/137.jpeg,2,2017-12-27T18:14:57.885Z
+138,General Nathan,Dead,Human,,Male,Earth (Replacement Dimension),Earth (Replacement Dimension),https://rickandmortyapi.com/api/character/avatar/138.jpeg,1,2017-12-27T18:22:18.387Z
+139,General Store Owner,Dead,Alien,Cat-Person,Male,Purge Planet,Purge Planet,https://rickandmortyapi.com/api/character/avatar/139.jpeg,1,2017-12-27T18:41:03.124Z
+140,Genital Washer,Alive,Human,,Male,Post-Apocalyptic Earth,Post-Apocalyptic Earth,https://rickandmortyapi.com/api/character/avatar/140.jpeg,1,2017-12-27T18:47:44.566Z
+141,Ghost in a Jar,Dead,Alien,Parasite,Genderless,unknown,Earth (Replacement Dimension),https://rickandmortyapi.com/api/character/avatar/141.jpeg,1,2017-12-27T19:14:14.545Z
+142,Gibble Snake,Dead,Alien,Animal,unknown,Resort Planet,Resort Planet,https://rickandmortyapi.com/api/character/avatar/142.jpeg,1,2017-12-27T20:16:32.187Z
+143,Glasses Morty,Alive,Human,,Male,unknown,Citadel of Ricks,https://rickandmortyapi.com/api/character/avatar/143.jpeg,1,2017-12-27T20:37:26.134Z
+144,Glenn,Dead,Alien,Gromflomite,Male,unknown,Interdimensional Customs,https://rickandmortyapi.com/api/character/avatar/144.jpeg,1,2017-12-29T10:37:48.319Z
+145,Glenn,Alive,Human,Eat shiter-Person,Male,unknown,Interdimensional Cable,https://rickandmortyapi.com/api/character/avatar/145.jpeg,1,2017-12-29T11:03:43.118Z
+146,Glexo Slim Slom,Alive,Alien,,Male,unknown,Nuptia 4,https://rickandmortyapi.com/api/character/avatar/146.jpeg,1,2017-12-29T11:28:29.380Z
+147,Gobo,Dead,Alien,,Male,unknown,Earth (Replacement Dimension),https://rickandmortyapi.com/api/character/avatar/147.jpeg,1,2017-12-29T11:38:29.578Z
+148,Goddess Beth,unknown,Mythological Creature,Goddess,Female,Nuptia 4,Nuptia 4,https://rickandmortyapi.com/api/character/avatar/148.jpeg,1,2017-12-29T11:40:25.135Z
+149,Gordon Lunas,Dead,Human,,Male,unknown,Earth (Replacement Dimension),https://rickandmortyapi.com/api/character/avatar/149.jpeg,1,2017-12-29T11:44:00.169Z
+150,Cornvelious Daniel,Dead,Alien,Gromflomite,Male,unknown,Galactic Federation Prison,https://rickandmortyapi.com/api/character/avatar/150.jpeg,1,2017-12-29T12:02:33.550Z
+151,Gwendolyn,unknown,Robot,Gazorpian reproduction robot,Female,Gazorpazorp,Earth (Replacement Dimension),https://rickandmortyapi.com/api/character/avatar/151.jpeg,1,2017-12-29T12:31:50.388Z
+152,Hammerhead Morty,unknown,Humanoid,Hammerhead-Person,Male,unknown,Citadel of Ricks,https://rickandmortyapi.com/api/character/avatar/152.jpeg,2,2017-12-29T15:20:16.842Z
+153,Hamster In Butt,Alive,Animal,,unknown,Hamster in Butt World,Hamster in Butt World,https://rickandmortyapi.com/api/character/avatar/153.jpeg,2,2017-12-29T15:27:54.281Z
+154,Hamurai,Dead,Alien,Parasite,Male,unknown,Earth (Replacement Dimension),https://rickandmortyapi.com/api/character/avatar/154.jpeg,1,2017-12-29T15:32:05.287Z
+155,Harold,Alive,Cronenberg,,Male,Earth (C-137),Earth (C-137),https://rickandmortyapi.com/api/character/avatar/155.jpeg,1,2017-12-29T15:41:18.773Z
+156,Hemorrhage,Alive,Human,,Male,Post-Apocalyptic Earth,Post-Apocalyptic Earth,https://rickandmortyapi.com/api/character/avatar/156.jpeg,1,2017-12-29T15:44:40.083Z
+157,Hole in the Wall Where the Men Can See it All,unknown,unknown,Hole,Genderless,unknown,Interdimensional Cable,https://rickandmortyapi.com/api/character/avatar/157.jpeg,1,2017-12-29T15:47:57.352Z
+158,Hookah Alien,Alive,Alien,Tuskfish,unknown,unknown,Interdimensional Customs,https://rickandmortyapi.com/api/character/avatar/158.jpeg,1,2017-12-29T15:53:48.952Z
+159,Hunter,Dead,Human,Clone,Male,Earth (Giant Telepathic Spiders Dimension),Earth (Giant Telepathic Spiders Dimension),https://rickandmortyapi.com/api/character/avatar/159.jpeg,1,2017-12-29T16:03:28.792Z
+160,Hunter's Father,Alive,Human,,Male,Earth (Giant Telepathic Spiders Dimension),Earth (Giant Telepathic Spiders Dimension),https://rickandmortyapi.com/api/character/avatar/160.jpeg,1,2017-12-29T16:07:04.040Z
+161,Hydrogen-F,Alive,Alien,Alphabetrian,Female,Alphabetrium,Alphabetrium,https://rickandmortyapi.com/api/character/avatar/161.jpeg,1,2017-12-29T16:10:40.290Z
+162,Ice-T,Alive,Alien,Alphabetrian,Male,Alphabetrium,Alphabetrium,https://rickandmortyapi.com/api/character/avatar/162.jpeg,1,2017-12-29T16:42:59.207Z
+163,Ideal Jerry,Dead,Mythological Creature,Mytholog,Male,Nuptia 4,Nuptia 4,https://rickandmortyapi.com/api/character/avatar/163.jpeg,1,2017-12-29T16:46:41.345Z
+164,Insurance Rick,unknown,Human,,Male,unknown,Citadel of Ricks,https://rickandmortyapi.com/api/character/avatar/164.jpeg,1,2017-12-29T17:03:08.645Z
+165,Investigator Rick,Dead,Human,,Male,unknown,Citadel of Ricks,https://rickandmortyapi.com/api/character/avatar/165.jpeg,1,2017-12-29T17:05:15.514Z
+166,Invisi-trooper,Alive,Human,,Male,Earth (Replacement Dimension),Earth (Replacement Dimension),https://rickandmortyapi.com/api/character/avatar/166.jpeg,1,2017-12-29T17:06:28.325Z
+167,Izzy,Alive,Animal,Cat,unknown,Earth (Replacement Dimension),Earth (Replacement Dimension),https://rickandmortyapi.com/api/character/avatar/167.jpeg,1,2017-12-29T17:07:59.024Z
+168,Jackie,Alive,Alien,Gazorpian,Female,Gazorpazorp,Gazorpazorp,https://rickandmortyapi.com/api/character/avatar/168.jpeg,1,2017-12-29T17:14:03.430Z
+169,Jacob,Alive,Human,,Male,Earth (C-137),Earth (C-137),https://rickandmortyapi.com/api/character/avatar/169.jpeg,2,2017-12-29T17:20:52.037Z
+170,Jacqueline,Alive,Human,,Female,Earth (Replacement Dimension),Earth (Replacement Dimension),https://rickandmortyapi.com/api/character/avatar/170.jpeg,1,2017-12-29T17:22:17.707Z
+171,Jaguar,Alive,Human,,Male,Earth (Replacement Dimension),Earth (Replacement Dimension),https://rickandmortyapi.com/api/character/avatar/171.jpeg,1,2017-12-29T17:25:38.138Z
+172,Jamey,Alive,Human,,Male,Earth (Replacement Dimension),Earth (Replacement Dimension),https://rickandmortyapi.com/api/character/avatar/172.jpeg,1,2017-12-29T17:30:20.654Z
+173,Jan-Michael Vincent,Alive,Human,,Male,unknown,Interdimensional Cable,https://rickandmortyapi.com/api/character/avatar/173.jpeg,1,2017-12-29T17:33:23.972Z
+174,Jerry 5-126,Alive,Human,,Male,Earth (5-126),Jerryboree,https://rickandmortyapi.com/api/character/avatar/174.jpeg,1,2017-12-29T17:50:19.991Z
+175,Jerry Smith,Alive,Human,,Male,Earth (C-137),Earth (C-137),https://rickandmortyapi.com/api/character/avatar/175.jpeg,7,2017-12-29T18:07:17.610Z
+176,Celebrity Jerry,Alive,Human,,Male,Earth (C-500A),Earth (C-500A),https://rickandmortyapi.com/api/character/avatar/176.jpeg,1,2017-12-29T18:25:11.930Z
+177,Jerry Smith,Alive,Human,,Male,Earth (Evil Rick's Target Dimension),Earth (Evil Rick's Target Dimension),https://rickandmortyapi.com/api/character/avatar/177.jpeg,1,2017-12-29T18:28:19.424Z
+178,Jerry's Mytholog,Dead,Mythological Creature,Mytholog,Male,Nuptia 4,Nuptia 4,https://rickandmortyapi.com/api/character/avatar/178.jpeg,1,2017-12-29T18:29:31.279Z
+179,Jessica,Alive,Cronenberg,,Female,Earth (C-137),Earth (C-137),https://rickandmortyapi.com/api/character/avatar/179.jpeg,3,2017-12-29T18:34:37.806Z
+180,Jessica,Alive,Human,Time God,Female,Earth (Replacement Dimension),Earth (Replacement Dimension),https://rickandmortyapi.com/api/character/avatar/180.jpeg,12,2017-12-29T18:36:27.225Z
+181,Jessica's Friend,Alive,Human,,Female,Earth (C-137),Earth (Replacement Dimension),https://rickandmortyapi.com/api/character/avatar/181.jpeg,8,2017-12-29T18:47:23.345Z
+182,Jim,Alive,Human,,Male,Earth (Replacement Dimension),Earth (Replacement Dimension),https://rickandmortyapi.com/api/character/avatar/182.jpeg,1,2017-12-29T18:49:48.953Z
+183,Johnny Depp,Alive,Human,,Male,Earth (C-500A),Earth (C-500A),https://rickandmortyapi.com/api/character/avatar/183.jpeg,1,2017-12-29T18:51:29.693Z
+184,Jon,Alive,Alien,Gazorpian,Male,Gazorpazorp,Interdimensional Cable,https://rickandmortyapi.com/api/character/avatar/184.jpeg,1,2017-12-29T18:54:04.572Z
+185,Joseph Eli Lipkip,Alive,Human,,Male,Earth (Replacement Dimension),Earth (Replacement Dimension),https://rickandmortyapi.com/api/character/avatar/185.jpeg,1,2017-12-29T18:56:15.622Z
+186,Joyce Smith,Alive,Human,,Female,Earth (C-137),Earth (C-137),https://rickandmortyapi.com/api/character/avatar/186.jpeg,1,2017-12-29T18:58:34.530Z
+187,Juggling Rick,unknown,Human,,Male,unknown,Citadel of Ricks,https://rickandmortyapi.com/api/character/avatar/187.jpeg,1,2017-12-29T18:59:47.440Z
+188,Karen Entity,Alive,Alien,Unknown-nippled alien,Female,Unity's Planet,Unity's Planet,https://rickandmortyapi.com/api/character/avatar/188.jpeg,1,2017-12-29T19:10:16.171Z
+189,Katarina,Dead,Human,,Female,Earth (Replacement Dimension),Earth (Replacement Dimension),https://rickandmortyapi.com/api/character/avatar/189.jpeg,1,2017-12-29T19:13:57.070Z
+190,Keara,Alive,Alien,Krootabulan,Female,Krootabulon,Earth (Replacement Dimension),https://rickandmortyapi.com/api/character/avatar/190.jpeg,1,2017-12-29T19:26:06.900Z
+191,Kevin,Dead,Alien,Zigerion,Male,unknown,Zigerion's Base,https://rickandmortyapi.com/api/character/avatar/191.jpeg,1,2017-12-29T19:40:07.816Z
+192,King Flippy Nips,Alive,Alien,Plutonian,Male,Pluto,Pluto,https://rickandmortyapi.com/api/character/avatar/192.jpeg,1,2017-12-29T19:49:29.297Z
+193,King Jellybean,Dead,Mythological Creature,Jellybean,Male,Fantasy World,Fantasy World,https://rickandmortyapi.com/api/character/avatar/193.jpeg,1,2017-12-29T19:58:44.743Z
+194,Kozbian,Alive,Alien,Tentacle alien,unknown,unknown,Planet Squanch,https://rickandmortyapi.com/api/character/avatar/194.jpeg,1,2017-12-30T12:13:53.878Z
+195,Kristen Stewart,Alive,Human,,Female,Earth (C-500A),Earth (C-500A),https://rickandmortyapi.com/api/character/avatar/195.jpeg,1,2017-12-30T12:19:16.042Z
+196,Krombopulos Michael,Dead,Alien,Gromflomite,Male,unknown,unknown,https://rickandmortyapi.com/api/character/avatar/196.jpeg,1,2017-12-30T12:28:52.954Z
+197,Kyle,Dead,Humanoid,Miniverse inhabitant,Male,Zeep Xanflorp's Miniverse,Kyle's Teenyverse,https://rickandmortyapi.com/api/character/avatar/197.jpeg,1,2017-12-30T12:39:09.025Z
+198,Lady Katana,Dead,Humanoid,Cyborg,Female,unknown,Dorian 5,https://rickandmortyapi.com/api/character/avatar/198.jpeg,1,2017-12-30T12:43:37.571Z
+199,Larva Alien,Alive,Alien,Larva alien,unknown,Larva Alien's Planet,Planet Squanch,https://rickandmortyapi.com/api/character/avatar/199.jpeg,3,2017-12-30T12:48:44.677Z
+200,Lawyer Morty,unknown,Human,,Male,unknown,Citadel of Ricks,https://rickandmortyapi.com/api/character/avatar/200.jpeg,1,2017-12-30T12:49:52.971Z
